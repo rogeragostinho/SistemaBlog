@@ -1,0 +1,16 @@
+{
+    "name": "rogerhugo/sistema-blog",
+    "description": "Um projeto de sistema de blog simples para aprendizado",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roger Agostinho",
+            "email": "rogerhugo703@gmail.com"
+        }
+    ],
+    "require": {}
+}
